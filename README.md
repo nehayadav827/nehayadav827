@@ -10,9 +10,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehay.college@gmail.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nehayadav827)
 
 </div>
@@ -26,7 +24,7 @@ class Neha:
     def __init__(self):
         self.name       = "Neha Yadav"
         self.college    = "IIIT Guwahati (B.Tech ECE, 2024–2028)"
-        self.cpi        = 8.10
+        self.cpi        = 8.49
         self.location   = "Rewari, Haryana 🇮🇳"
         self.interests  = ["Data Structures & Algorithms", "Backend Dev", "ML / AI"]
         self.currently  = "Building cool stuff and breaking things (then fixing them)"
